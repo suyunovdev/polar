@@ -6,10 +6,15 @@ module.exports = {
       colors: {
         first: '#F2CEDA',
         second: '#D23166',
+        third: 'black'
       },
     },
     fontFamily: {
       roboto: ['Roboto'],
+
+    },
+    fontSize:{
+      size:{'second_size'}
     },
     screens: {
       sm: '480px',

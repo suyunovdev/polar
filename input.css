@@ -7,4 +7,9 @@
   src: url('../fonts/Roboto-Regular.ttf');
   font-family: 'Fredodko';
   src: url(https://fonts.googleapis.com/css2?family=Fredoka&family=Poppins&family=Roboto&family=Roboto+Flex:opsz@8..144&display=swap);
+  
+}
+@font-feature-values{
+  font-size: 57.33px;
+  
 }
